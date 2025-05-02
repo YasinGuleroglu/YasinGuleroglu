@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 📍 I live in **Malatya**
+- 📍 I live in **İstanbul/Turkey**
 - 💻 I am a **Frontend Developer**
 - 💙 I love **React** & **JavaScript** technologies
 - 🌱 I love **learning new things** all the time
